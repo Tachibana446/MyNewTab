@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "俺のスタートページ",
+  "description": "スタートページを書き換えます",
+  "version": "1.0",
+
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+}
